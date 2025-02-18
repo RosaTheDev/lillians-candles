@@ -1,0 +1,16 @@
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore NuGet dependency files
+*.nuget.*
+*.csproj.nuget.*
+project.assets.json
+project.nuget.cache
+
+# Ignore Visual Studio / Rider specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.db
