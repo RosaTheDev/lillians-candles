@@ -1,0 +1,51 @@
+{
+  "uuid": "043fd0a4-c075-4fb7-a244-c4465e26a4ba",
+  "historyId": "8bb8ba754de108e4a374e97fc3496125",
+  "testCaseId": "b0be4dd9a456f50194c9dcec39acf385",
+  "fullName": "LilliansCandles.Tests:LilliansCandles.Tests.UnitTest1.Test1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "XFK76V234L"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "LilliansCandles.Tests.UnitTest1"
+    },
+    {
+      "name": "testMethod",
+      "value": "LilliansCandles.Tests.UnitTest1.Test1"
+    },
+    {
+      "name": "package",
+      "value": "LilliansCandles.Tests.UnitTest1"
+    }
+  ],
+  "links": [],
+  "name": "LilliansCandles.Tests.UnitTest1.Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740507299734,
+  "stop": 1740507299741
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "ffbe05cf-dba2-4357-a6f8-a113ec6729b7",
+  "name": "LilliansCandles.Tests.ApiTests",
+  "children": [
+    "874bdfe1-2dc3-42a9-a65f-62eb77234642"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1740583346713,
+  "stop": 1740583346810
+}

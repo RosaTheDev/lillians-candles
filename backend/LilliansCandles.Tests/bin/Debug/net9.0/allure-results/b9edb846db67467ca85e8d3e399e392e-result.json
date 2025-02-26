@@ -1,0 +1,91 @@
+{
+  "uuid": "cc788ca7-4123-4fb4-92e7-490dffa4f8ea",
+  "historyId": "7e1f943cd9a706fd426dfe91b50bb59a",
+  "testCaseId": "c009fbde32052a2174c3aff7dbbd5202",
+  "fullName": "LilliansCandles.Tests:LilliansCandles.Tests.ApiTests.Get_Candles_ShouldReturn200()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "XFK76V234L"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "LilliansCandles.Tests.ApiTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "GET /api/candles returns HTTP status code 200"
+    },
+    {
+      "name": "package",
+      "value": "LilliansCandles.Tests.ApiTests"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lillian's Candles API Testing"
+    },
+    {
+      "name": "feature",
+      "value": "Get All Candles"
+    }
+  ],
+  "links": [],
+  "name": "GET /api/candles returns HTTP status code 200",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "description": "\n        Given candle details are available\n        When attempting to perform a GET request to retrieve all candles\n        Then the response should not be null and the status code should be 200.",
+  "steps": [
+    {
+      "name": "Given candle details are available",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1740584391098,
+      "stop": 1740584391098
+    },
+    {
+      "name": "When performing a GET request to retrieve all candles",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1740584391099,
+      "stop": 1740584391148
+    },
+    {
+      "name": "Then the response should not be null and the status code should be 200",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1740584391149,
+      "stop": 1740584391154
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1740584391095,
+  "stop": 1740584391156
+}
